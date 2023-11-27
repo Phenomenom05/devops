@@ -21,7 +21,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "djan/wsgi.py",
+      "dest": "djan/wsgi.py"
     }
   ]
 }
